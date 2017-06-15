@@ -67,6 +67,7 @@ D:\SmartEnergy\Webapp\src\main\java\org\ws\entities\ReportPost.java
 D:\SmartEnergy\Webapp\src\main\java\org\ws\dao\impl\ConversationUserDaoImpl.java
 D:\SmartEnergy\Webapp\src\main\java\org\ws\core\json\ResponseBuilder.java
 D:\SmartEnergy\Webapp\src\main\java\org\ws\dao\ReportPostDao.java
+D:\SmartEnergy\Webapp\src\main\java\org\ws\test\Temperature.java
 D:\SmartEnergy\Webapp\src\main\java\org\ws\dao\UserDao.java
 D:\SmartEnergy\Webapp\src\main\java\org\ws\entities\GroupeMessage.java
 D:\SmartEnergy\Webapp\src\main\java\org\ws\service\ConversationService.java
